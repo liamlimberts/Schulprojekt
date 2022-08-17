@@ -8,5 +8,5 @@ In unserer ersten Informatikstunde mit Herrn Buhl, hat uns Herr Buhl seine Erwar
 
 ### <a name="2"></a> Stunde vom 17.08.2022
 
-
+Heute haben wir uns Grundlagen zu Markdown beigebracht, mit Hilfe eines Markdown Tutorial https://www.markdowntutorial.com/lesson/3/.  
 
