@@ -10,3 +10,4 @@ In unserer ersten Informatikstunde mit Herrn Buhl, hat uns Herr Buhl seine Erwar
 
 Heute haben wir uns Grundlagen zu Markdown beigebracht, mit Hilfe eines Markdown Tutorial https://www.markdowntutorial.com/lesson/3/. Zu dem haben wir uns Gedanken darüber gemacht, was für ein Projekt wir, in diesem Halbjahr, verwirklichen wollen. 
 
+https://www.youtube.com/watch?v=By8fojS0sIU 
