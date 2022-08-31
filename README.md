@@ -3,7 +3,9 @@
 ## [1. Stunde, 16.08.2022](#1)
 ## [2. Stunde, 17.08.2022](#2)
 ## [3. Stunde, 23.08.2022](#3)
-## [3. Stunde, 24.08.2022](#4)
+## [4. Stunde, 24.08.2022](#4)
+## [5. Stunde, 30.08.2022](#5)
+## [6. Stunde, 31.08.2022](#6)
 
 ### <a name="1"></a> Stunde vom 16.08.2022
 
@@ -24,6 +26,13 @@ In dieser Doppelstunde haben wir unser Wissen aus der letzten Stunde dazu genutz
 
 ![bsp greenfoot](Bilder/test.jpg "Screenshot von Greenfoot")
 ![bsp greenfoot](Bilder/test2.jpg "Screenshot von Greenfoot")
+
+### <a name="5"></a> Stunde vom 30.08.2022
+Heute waren wir leider beide krank, und konnten somit nicht an unserem Projekt weiter arbeiten.
+
+### <a name="6"></a> Stunde vom 31.08.2022
+Am 31.08.2022 haben wir uns 1. damit beschäftigt, wie man einen Hintergrund in Greenfoot einfügt. Dafür haben wir Lasse und Joel gefragt, die uns da freundlicherweise weiterhelfen konnten. 2. Wir haben uns angeguckt wie man zwei Bilder einfügt.
+
 
 https://www.youtube.com/watch?v=RHPhyhF7c3k (min8:35 das ganze rein kopieren)
 
