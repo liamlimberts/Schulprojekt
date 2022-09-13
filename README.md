@@ -42,7 +42,7 @@ In dieser Stunde war Liam leider nicht da,so dass ich alleine arbeiten musste. D
 
 Am 07.09.2022 habe ich mich weiter mit dem Video aus der Stunde davor auseinander gesetzt und so dann Final einen Boden erstellt, auf dem unser Chrakter dann hoffentlich laufen kann.
 
-
+min 9:48 Uhr
 
 
 
