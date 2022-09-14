@@ -42,7 +42,14 @@ In dieser Stunde war Liam leider nicht da,so dass ich alleine arbeiten musste. D
 
 Am 07.09.2022 habe ich mich weiter mit dem Video aus der Stunde davor auseinander gesetzt und so dann Final einen Boden erstellt, auf dem unser Chrakter dann hoffentlich laufen kann.
 
-min 9:48 Uhr
+### <a name="9"></a> Stunde vom 13.09.2022
+
+Diese Informatikstunde haben wir damit begonnen, eine passende Erklärung zu finden, um die Schwerkraft in das Spiel zu integrieren. Dabei haben wir folgendes Video gefunden https://www.youtube.com/watch?v=By8fojS0sIU . Aufgrundelage dieses Videos haben wir uns dann daran begeben unseren Chrakter springen zu lassen. Dabei haben wir immer wieder unser skript geändert, jedoch zum Schluss sind wir erfolgreich zu einem Ende gekommen, sodass sich unser Charakter bewegte und dabei sprang.
+
+
+### <a name="10"></a> Stunde vom 14.09.2022
+
+Der 14.09.2022 brachte viele neue Erkentnisse mit sich.
 
 
 
