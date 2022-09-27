@@ -59,3 +59,11 @@ https://www.youtube.com/watch?v=SBcIb4_ST8I
 
 ### <a name="11"></a> Stunde vom 27.09.2022
 
+Heute haben wir uns mit Luca beraten und uns angeguckt wie er seine Welt kreiert hat. Auf seine Empfehlung hin, haben wir dann folgendes Video rausgesucht https://www.youtube.com/watch?v=FoD7cjW_5lU . Mithilfe von diesem Video werden wir in der nächsten Stunde, am Mittwoch den 28.09.2022, unsere Welt anpassen.
+
+
+
+
+
+
+
