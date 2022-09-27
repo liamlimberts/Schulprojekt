@@ -6,8 +6,11 @@
 ## [4. Stunde, 24.08.2022](#4)
 ## [5. Stunde, 30.08.2022](#5)
 ## [6. Stunde, 31.08.2022](#6)
-## [7. Stunde, 31.08.2022](#7)
-## [8. Stunde, 31.08.2022](#8)
+## [7. Stunde, 06.09.2022](#7)
+## [8. Stunde, 07.09.2022](#8)
+## [9. Stunde, 13.09.2022](#9)
+## [10. Stunde, 14.09.2022](#10)
+## [11. Stunde, 27.09.2022](#11)
 
 ### <a name="1"></a> Stunde vom 16.08.2022
 
@@ -49,7 +52,14 @@ Diese Informatikstunde haben wir damit begonnen, eine passende Erklärung zu fin
 
 ### <a name="10"></a> Stunde vom 14.09.2022
 
-Der 14.09.2022 brachte viele neue Erkentnisse mit sich.
+Der 14.09.2022 brachte spannende neue Erkentnisse mit sich. So haben wir herausgefunden, dass wir unseren Charakter unterschiedlich schnell bewegen können, je nach dem wir das einstellen. Außerdem haben wir herausgefunden, wie wir einstellen wie hoch unser Charakter springt. 
+Am Schluss waren wir so weit, dass wir unseren Charakter, wie in einem Spiel, so bewegen konnten wie wir es wollen. 
+
+
+### <a name="11"></a> Stunde vom 27.09.2022
+
+
+
 
 
 
