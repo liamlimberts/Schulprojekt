@@ -54,13 +54,8 @@ Diese Informatikstunde haben wir damit begonnen, eine passende Erklärung zu fin
 
 Der 14.09.2022 brachte spannende neue Erkentnisse mit sich. So haben wir herausgefunden, dass wir unseren Charakter unterschiedlich schnell bewegen können, je nach dem wir das einstellen. Außerdem haben wir herausgefunden, wie wir einstellen wie hoch unser Charakter springt. 
 Am Schluss waren wir so weit, dass wir unseren Charakter, wie in einem Spiel, so bewegen konnten wie wir es wollen. 
+https://www.youtube.com/watch?v=SBcIb4_ST8I 
 
 
 ### <a name="11"></a> Stunde vom 27.09.2022
-
-
-
-
-
-
 
