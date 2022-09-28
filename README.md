@@ -62,6 +62,13 @@ https://www.youtube.com/watch?v=SBcIb4_ST8I
 Heute haben wir uns mit Luca beraten und uns angeguckt wie er seine Welt kreiert hat. Auf seine Empfehlung hin, haben wir dann folgendes Video rausgesucht https://www.youtube.com/watch?v=FoD7cjW_5lU . Mithilfe von diesem Video werden wir in der nächsten Stunde, am Mittwoch den 28.09.2022, unsere Welt anpassen.
 
 
+### <a name="12"></a> Stunde vom 28.09.2022
+
+Der heutige Tag war ein großer Rückschlag für uns, denn bei dem Versuch weiterzukommen und es zu schaffen das sich unsere Welt bewegt, wenn wir mit unserer Figur nach Rechts oder Links laufen, haben wir es geschafft das wir nun garkeinen Hintergrund mehr haben. Hinzu kommt das unsere Welt verschwunden ist und es nicht so läuft wie wir uns das vorgestellt haben. Zuguter letzt ist auch noch Greenfoot abgestürzt, sodass das was wir heute neu angefangen haben nicht geichert wurde. Jetzt haben  wir uns dazu entdvhieden, dass wir in der nächsten Stunde unsere Welt nochmal neu machen.
+Bilder einfügen vom letzten Stand.
+![bsp greenfoot](Bilder/test.jpg "Screenshot von Greenfoot")
+
+
 
 
 
