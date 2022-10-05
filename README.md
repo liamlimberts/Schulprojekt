@@ -68,6 +68,8 @@ Der heutige Tag war ein großer Rückschlag für uns, denn bei dem Versuch weite
 Bilder einfügen vom letzten Stand.
 ![bsp greenfoot](Bilder/test.jpg "Screenshot von Greenfoot")
 
+video min 34:39
+
 
 
 
