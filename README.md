@@ -11,6 +11,8 @@
 ## [9. Stunde, 13.09.2022](#9)
 ## [10. Stunde, 14.09.2022](#10)
 ## [11. Stunde, 27.09.2022](#11)
+## [12. Stunde, 28.09.2022](#12)
+## [13. Stunde, 26.10.2022](#13)
 
 ### <a name="1"></a> Stunde vom 16.08.2022
 
@@ -68,7 +70,9 @@ Der heutige Tag war ein großer Rückschlag für uns, denn bei dem Versuch weite
 Bilder einfügen vom letzten Stand.
 ![bsp greenfoot](Bilder/test.jpg "Screenshot von Greenfoot")
 
-video min 34:39
+
+### <a name="13"></a> Stunde vom 26.10.2022
+In der ersten Stunde nach den Herbstferien, haben wir uns zuesrt damit beschäftigt, wie wir es schaffen das unser Charakter immer in die Richtung guckt in der er sich bewegt. Diese Information haben wir aus folgendem Video entnommen: https://www.youtube.com/watch?v=FoD7cjW_5lU. In der zweiten Stunde haben wir uns mit dem plazieren von Gegenständen beschäftigt, so dass sich diese nicht mit dem Charakter mitbewegen. Dabei war die Schwierigkeit, dass sich der Hintergrund bei uns bewegt und nicht der Charakter. Das bedeutet, dass sich die Gegenstände auch nicht bewegen, außer man gliedert sie in den Hinntergrund ein. Mit dem folgenden Video haben wir diese Informationen bekommen: https://www.youtube.com/watch?v=RQUYT9svlTg.
 
 
 
