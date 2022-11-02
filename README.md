@@ -13,6 +13,7 @@
 ## [11. Stunde, 27.09.2022](#11)
 ## [12. Stunde, 28.09.2022](#12)
 ## [13. Stunde, 26.10.2022](#13)
+## [14. Stunde, 02.11.2022](#14)
 
 ### <a name="1"></a> Stunde vom 16.08.2022
 
@@ -73,10 +74,7 @@ Bilder einfügen vom letzten Stand.
 
 ### <a name="13"></a> Stunde vom 26.10.2022
 In der ersten Stunde nach den Herbstferien, haben wir uns zuesrt damit beschäftigt, wie wir es schaffen das unser Charakter immer in die Richtung guckt in der er sich bewegt. Diese Information haben wir aus folgendem Video entnommen: https://www.youtube.com/watch?v=FoD7cjW_5lU. In der zweiten Stunde haben wir uns mit dem plazieren von Gegenständen beschäftigt, so dass sich diese nicht mit dem Charakter mitbewegen. Dabei war die Schwierigkeit, dass sich der Hintergrund bei uns bewegt und nicht der Charakter. Das bedeutet, dass sich die Gegenstände auch nicht bewegen, außer man gliedert sie in den Hinntergrund ein. Mit dem folgenden Video haben wir diese Informationen bekommen: https://www.youtube.com/watch?v=RQUYT9svlTg.
+.
 
-
-
-
-
-
-
+### <a name="13"></a> Stunde vom 02.11.2022
+Nach dem die Stunde am 01.11.2022 aufgrund des Schulentwicklungtags ausgefallen ist, haben wir erst am 02.11.2022 weiter arbeiten können. In der Stunde haben wir uns dann damit auseinander gesetzt wie wir es schaffen können, dass unser Charakter springen kann und nicht durch die Welt fliegt, auch wenn es eine Fliege ist. Im folgenden Video wurde uns dann erklärt wie wir mit unserem Charakter springen können https://www.youtube.com/watch?v=z7RB-KSlCFQ. Um jedoch den neuen Code schreiben zu können, mussten wir zu vor erst einmal unsren alten Code löschen. Es resultierte daraus das sich jetzt unsere Welt sich nicht mehr bewegt. Das Problem gehen wir in der nächste nStunde an.
