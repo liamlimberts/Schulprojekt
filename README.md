@@ -15,6 +15,7 @@
 ## [13. Stunde, 26.10.2022](#13)
 ## [14. Stunde, 02.11.2022](#14)
 ## [15. Stunde, 08.11.2022](#15)
+## [16. Stunde, 09.11.2022](#16)
 
 ### <a name="1"></a> Stunde vom 16.08.2022
 
@@ -82,3 +83,8 @@ Nach dem die Stunde am 01.11.2022 aufgrund des Schulentwicklungtags ausgefallen 
 
 
 ### <a name="15"></a> Stunde vom 08.11.2022
+Heute sind wir, wie bereits in der letzten Stunde besprochen, das Problem, mit unserer Welt, die sich nicht mitbewegt, angegangen. Dafür haben wir erst diverse Dinge selbst versucht, welche jedoch alle nicht Ziel führend waren. Am Ende der Stunde haben wir dann Herrn Buhl gefragt und ihn daraum gebeten uns weiter zu helfen. Nach einer kurzen Fehleranalyse hat er unseren Fehler gefunden und uns gezeigt wie man in behebt, sodass sich unser Character mit dem Hintergrund mitbewegem kann. 
+
+
+### <a name="16"></a> Stunde vom 09.11.2022
+In der ersten Stunde, von den beiden Stunden am 09.11.2022, haben wir uns damit auseinander gesetzt wie wir mit unser Projekt weiter fortfahren möchten und wie wir unsere weiteren Ideen (1. Ein Ziel, 2. Ein Gegner, wo wenn man mit dem in Kontakt kommt, dass Spiel zurück gesetzt wird) umsetzten können. Damit wir überhaupt wissen können, wie man ein Ziel und einen Gegner erschaftt, haben wir uns folgendes Video angeguckt und damit gearbeitet https://www.youtube.com/watch?v=DVrYb1VmGnE.
