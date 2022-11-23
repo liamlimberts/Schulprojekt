@@ -16,6 +16,8 @@
 ## [14. Stunde, 02.11.2022](#14)
 ## [15. Stunde, 08.11.2022](#15)
 ## [16. Stunde, 09.11.2022](#16)
+## [17. Stunde, 16.11.2022](#17)
+## [18. Stunde, 23.11.2022](#18)
 
 ### <a name="1"></a> Stunde vom 16.08.2022
 
@@ -88,3 +90,9 @@ Heute sind wir, wie bereits in der letzten Stunde besprochen, das Problem, mit u
 
 ### <a name="16"></a> Stunde vom 09.11.2022
 In der ersten Stunde, von den beiden Stunden am 09.11.2022, haben wir uns damit auseinander gesetzt wie wir mit unser Projekt weiter fortfahren möchten und wie wir unsere weiteren Ideen (1. Ein Ziel, 2. Ein Gegner, wo wenn man mit dem in Kontakt kommt, dass Spiel zurück gesetzt wird) umsetzten können. Damit wir überhaupt wissen können, wie man ein Ziel und einen Gegner erschaftt, haben wir uns folgendes Video angeguckt und damit gearbeitet https://www.youtube.com/watch?v=DVrYb1VmGnE.
+
+
+### <a name="17"></a> Stunde vom 16.11.2022
+![bsp greenfoot](Bilder/.jpg "Screenshot von Greenfoot")
+
+### <a name="18"></a> Stunde vom 23.11.2022
