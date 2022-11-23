@@ -93,6 +93,8 @@ In der ersten Stunde, von den beiden Stunden am 09.11.2022, haben wir uns damit 
 
 
 ### <a name="17"></a> Stunde vom 16.11.2022
+Heute haben wir uns angeguckt wie man einen Gegner in das Spiel hinzufügt. Dabei haben wir herausgefunden, dass wir irgend ein Bild nehmen können und dann einfach sagen nmüssen, dass wenn die Fliege das Bild berührt das Spiel vorbei ist (Game Over). Danach haben wir dann noch ein Ziel festgelegt, die Erdbeere. Das Ziel funktioniert genau nach dem gleichen Prinzip wie der Gegner, sodass wenn man die Erdbeere berührt ein Bild erscheint (Victory). Beide Bilder und den dazugehörigen Quellcode, habne wir unten als Bild eingefügt.
+
 ![bsp greenfoot](Bilder/Quellcode_für_YouLose_und_YouWin.JPG "Screenshot von Greenfoot")
 
 ![bsp greenfoot](Bilder/Victory_bild_für_github.JPG "Screenshot von Greenfoot")
@@ -100,9 +102,9 @@ In der ersten Stunde, von den beiden Stunden am 09.11.2022, haben wir uns damit 
 ![bsp greenfoot](Bilder/YouLose_bild_für_github.JPG "Screenshot von Greenfoot")
 
 
- 
+ ### <a name="18"></a> Stunde vom 23.11.2022
+ In der heutigen Doppelstunde, haben wir uns mit Anweisungen, für den Spieler beschäftigt. Dazu haben wir ein Schild am Anfang eingefügt, was die Aufgabe der Fliege beschreibt. Das Bild was nachher bei dem Ende erscheinen soll, haben wir auch schon hinzugefügt. Der Spieler wird erst aufgefordert die Erdbeere zu suchen, um danach wieder ganz an Anfang gehen zu müssen, weil sich dort die Erdbeere befindet.
 
-### <a name="18"></a> Stunde vom 23.11.2022
 ![bsp greenfoot](Bilder/Anweisungen_zum_Spiel.JPG "Screenshot von Greenfoot")
 
 ![bsp greenfoot](Bilder/Quellcode_Anweisungen.JPG "Screenshot von Greenfoot")
