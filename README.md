@@ -95,18 +95,17 @@ In der ersten Stunde, von den beiden Stunden am 09.11.2022, haben wir uns damit 
 ### <a name="17"></a> Stunde vom 16.11.2022
 ![bsp greenfoot](Bilder/Quellcode_für_YouLose_und_YouWin.JPG "Screenshot von Greenfoot")
 
+![bsp greenfoot](Victory_bild_für_github.JPG "Screenshot von Greenfoot")
+
+![bsp greenfoot](YouLose_bild_für_github.JPG "Screenshot von Greenfoot")
 
 
-Victory_bild_für_github.JPG
-
-YouLose_bild_für_github.JPG 
+ 
 
 ### <a name="18"></a> Stunde vom 23.11.2022
+![bsp greenfoot](Anweisungen_zum_Spiel.JPG "Screenshot von Greenfoot")
 
-Anweisungen_zum_Spiel.JPG
-
-Quellcode_Anweisungen.JPG
-
+![bsp greenfoot](Quellcode_Anweisungen.JPG "Screenshot von Greenfoot")
 
 
 
@@ -132,12 +131,6 @@ Quellcode_Anweisungen.JPG
 
 
 
-Anweisungen_zum_Spiel.JPG
 
-Quellcode_Anweisungen.JPG
 
-Quellcode_für_YouLose_und_YouWin.JPG
 
-Victory_bild_für_github.JPG
-
-YouLose_bild_für_github.JPG 
