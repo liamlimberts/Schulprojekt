@@ -93,7 +93,7 @@ In der ersten Stunde, von den beiden Stunden am 09.11.2022, haben wir uns damit 
 
 
 ### <a name="17"></a> Stunde vom 16.11.2022
-Heute haben wir uns angeguckt wie man einen Gegner in das Spiel hinzufügt. Dabei haben wir herausgefunden, dass wir irgend ein Bild nehmen können und dann einfach sagen nmüssen, dass wenn die Fliege das Bild berührt das Spiel vorbei ist (Game Over). Danach haben wir dann noch ein Ziel festgelegt, die Erdbeere. Das Ziel funktioniert genau nach dem gleichen Prinzip wie der Gegner, sodass wenn man die Erdbeere berührt ein Bild erscheint (Victory). Beide Bilder und den dazugehörigen Quellcode, habne wir unten als Bild eingefügt.
+Heute haben wir uns angeguckt wie man einen Gegner in das Spiel hinzufügt. Dabei haben wir herausgefunden, dass wir irgend ein Bild nehmen können und dann einfach sagen nmüssen, dass wenn die Fliege das Bild berührt das Spiel vorbei ist (Game Over). Danach haben wir dann noch ein Ziel festgelegt, die Erdbeere. Das Ziel funktioniert genau nach dem gleichen Prinzip wie der Gegner, sodass wenn man die Erdbeere berührt ein Bild erscheint (Victory). Unseren Quellcode sowie die beiden Bilder sind unten zu sehen.
 
 ![bsp greenfoot](Bilder/Quellcode_für_YouLose_und_YouWin.JPG "Screenshot von Greenfoot")
 
