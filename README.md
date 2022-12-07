@@ -18,6 +18,8 @@
 ## [16. Stunde, 09.11.2022](#16)
 ## [17. Stunde, 16.11.2022](#17)
 ## [18. Stunde, 23.11.2022](#18)
+## [18. Stunde, 06.12.2022](#19)
+## [18. Stunde, 07.12.2022](#20)
 
 ### <a name="1"></a> Stunde vom 16.08.2022
 
@@ -109,6 +111,12 @@ Heute haben wir uns angeguckt wie man einen Gegner in das Spiel hinzufügt. Dabe
 
 ![bsp greenfoot](Bilder/Quellcode_Anweisungen.JPG "Screenshot von Greenfoot")
 
+
+### <a name="19"></a> Stunde vom 06.12.2022
+Heute haben wir einige kleine Änderungen vorgenommen. Wir haben die Anweisungsschilder an ihren richtigen Platz gebracht und unser Ziel festgelegt. Hinzu kam das wir viele Ebenen in das Spiel hinzugefügt haben, welche auf unterschiedlichen Höhen und Weiten platziert wurden.
+
+### <a name="20"></a> Stunde vom 07.12.2022
+In der unser heutigen Doppelstunde haben wir unser Spiel fertig gestellt. Wir haben am Anfang die letzten Jump and Run Platformen platziert, um dann danach uns mit dem Enemy (die Frösche) zu beschäftigen, da kam nämlich immer eine Fehlermeldung. Die verwies uns darauf, dass etwas mit unserem Enemy nicht stimmt. Dabei ging es darum dasunter "Fly" bei "public void act" "hitEnemy" zwar als solches erkannt wurde, jedoch danach da noch stand "hitFinish", sodass das Spiel nach dem "hitEnemy" immer noch versucht hat "hitFinish" auszuführen, was natürlich nicht funktionierte. Das Problem konnten wir dann dadurch umgehen, das wir gesagt haben "public void hitSomething" und dann da reingeschrieben haben was passiert, wenn man den Frosch oder die Erbeere (Finish) berührt. Desweiteren haben wir gesagt das unser "Actor", die Fliege, verschwindet, wenn Sie entweder 1. Den Frosch berührt ode 2. die Erbeere.
 
 
 
