@@ -42,6 +42,8 @@ In dieser Doppelstunde haben wir unser Wissen aus der letzten Stunde dazu genutz
 <summary> Liam</summary>
  ![bsp greenfoot](Bilder/test.jpg "Screenshot von Greenfoot")
 ![bsp greenfoot](Bilder/test2.jpg "Screenshot von Greenfoot")
+ 
+ </details>
 
 ### <a name="5"></a> Stunde vom 30.08.2022
 Heute waren wir leider beide krank, und konnten somit nicht an unserem Projekt weiter arbeiten.
