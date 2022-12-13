@@ -48,7 +48,7 @@ In dieser Doppelstunde haben wir unser Wissen aus der letzten Stunde dazu genutz
  </details>
 
 ### <a name="5"></a> Stunde vom 30.08.2022
-Heute waren wir leider beide krank, und konnten somit nicht an unserem Projekt weiter arbeiten.
+Heute waren wir leider beide krank und konnten somit nicht an unserem Projekt weiter arbeiten.
 
 ### <a name="6"></a> Stunde vom 31.08.2022
 Am 31.08.2022 haben wir uns 1. damit beschäftigt, wie man einen Hintergrund in Greenfoot einfügt. Dafür haben wir Lasse und Joel gefragt, die uns da freundlicherweise weiterhelfen konnten. 2. Wir haben uns angeguckt wie man zwei Bilder einfügt.
