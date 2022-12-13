@@ -18,8 +18,10 @@
 ## [16. Stunde, 09.11.2022](#16)
 ## [17. Stunde, 16.11.2022](#17)
 ## [18. Stunde, 23.11.2022](#18)
-## [19. Stunde, 06.12.2022](#19)
-## [20. Stunde, 07.12.2022](#20)
+## [19. Stunde, 29.11.2022](#19)
+## [20. Stunde, 30.11.2022](#20)
+## [21. Stunde, 06.12.2022](#21)
+## [22. Stunde, 07.12.2022](#22)
 
 ### <a name="1"></a> Stunde vom 16.08.2022
 
@@ -81,8 +83,12 @@ Heute haben wir uns mit Luca beraten und uns angeguckt wie er seine Welt kreiert
 
 Der heutige Tag war ein großer Rückschlag für uns, denn bei dem Versuch weiterzukommen und es zu schaffen das sich unsere Welt bewegt, wenn wir mit unserer Figur nach Rechts oder Links laufen, haben wir es geschafft das wir nun garkeinen Hintergrund mehr haben. Hinzu kommt das unsere Welt verschwunden ist und es nicht so läuft wie wir uns das vorgestellt haben. Zuguter letzt ist auch noch Greenfoot abgestürzt, sodass das was wir heute neu angefangen haben nicht geichert wurde. Jetzt haben  wir uns dazu entdvhieden, dass wir in der nächsten Stunde unsere Welt nochmal neu machen.
 Bilder einfügen vom letzten Stand.
-![bsp greenfoot](Bilder/test.jpg "Screenshot von Greenfoot")
 
+<details>
+ <summary> gh</summary>
+ 
+![bsp greenfoot](Bilder/test.jpg "Screenshot von Greenfoot")
+<details>
 
 ### <a name="13"></a> Stunde vom 26.10.2022
 In der ersten Stunde nach den Herbstferien, haben wir uns zuesrt damit beschäftigt, wie wir es schaffen das unser Charakter immer in die Richtung guckt in der er sich bewegt. Diese Information haben wir aus folgendem Video entnommen: https://www.youtube.com/watch?v=FoD7cjW_5lU. In der zweiten Stunde haben wir uns mit dem plazieren von Gegenständen beschäftigt, so dass sich diese nicht mit dem Charakter mitbewegen. Dabei war die Schwierigkeit, dass sich der Hintergrund bei uns bewegt und nicht der Charakter. Das bedeutet, dass sich die Gegenstände auch nicht bewegen, außer man gliedert sie in den Hinntergrund ein. Mit dem folgenden Video haben wir diese Informationen bekommen: https://www.youtube.com/watch?v=RQUYT9svlTg.
@@ -118,10 +124,16 @@ Heute haben wir uns angeguckt wie man einen Gegner in das Spiel hinzufügt. Dabe
 ![bsp greenfoot](Bilder/Quellcode_Anweisungen.JPG "Screenshot von Greenfoot")
 
 
-### <a name="19"></a> Stunde vom 06.12.2022
+### <a name="19"></a> Stunde vom 29.11.2022
+Da wir heute leide beide krank gewesen sind, konnten wir an unserem Projekt nicht weiter arbeiten
+
+### <a name="20"></a> Stunde vom 30.11.2022
+Die Stunde am 30.11.2022 ist leider ausgefallen. Daher konnten wir nicht an unserem Projekt weiter arbeiten, haben jedoch unseren Eintrag schon einmal, von zu Hause aus, überarbeitet.
+
+### <a name="21"></a> Stunde vom 06.12.2022
 Heute haben wir einige kleine Änderungen vorgenommen. Wir haben die Anweisungsschilder an ihren richtigen Platz gebracht und unser Ziel festgelegt. Hinzu kam das wir viele Ebenen in das Spiel hinzugefügt haben, welche auf unterschiedlichen Höhen und Weiten platziert wurden.
 
-### <a name="20"></a> Stunde vom 07.12.2022
+### <a name="22"></a> Stunde vom 07.12.2022
 In der unser heutigen Doppelstunde haben wir unser Spiel fertig gestellt. Wir haben am Anfang die letzten Jump and Run Platformen platziert, um dann danach uns mit dem Enemy (die Frösche) zu beschäftigen, da kam nämlich immer eine Fehlermeldung. Die verwies uns darauf, dass etwas mit unserem Enemy nicht stimmt. Dabei ging es darum dasunter "Fly" bei "public void act" "hitEnemy" zwar als solches erkannt wurde, jedoch danach da noch stand "hitFinish", sodass das Spiel nach dem "hitEnemy" immer noch versucht hat "hitFinish" auszuführen, was natürlich nicht funktionierte. Das Problem konnten wir dann dadurch umgehen, das wir gesagt haben "public void hitSomething" und dann da reingeschrieben haben was passiert, wenn man den Frosch oder die Erbeere (Finish) berührt. Desweiteren haben wir gesagt das unser "Actor", die Fliege, verschwindet, wenn Sie entweder 1. Den Frosch berührt ode 2. die Erbeere.
 
 
