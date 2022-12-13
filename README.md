@@ -39,7 +39,7 @@ Diese Informatikstunde haben wir mit dem Sammeln von möglichen Ideen für unser
 In dieser Doppelstunde haben wir unser Wissen aus der letzten Stunde dazu genutz, um unseren Charakter zu erschaffen und diesen sich bewegen zu lassen, wenn wir A oder D drücken. Jedoch hatten wir erst alles unter Downloads und nicht unter Desktop gespeichert, was wiederum zu Problemem führte, da es nicht so funktionierte wie wir es uns vorstellten. Deshalb haben wir alles nochmal neu angefangen,so dass es jetzt so aussieht.
 
 <details>
-<summary> Liam</summary>
+<summary> </summary>
  
 ![bsp greenfoot](Bilder/test.jpg "Screenshot von Greenfoot")
  
