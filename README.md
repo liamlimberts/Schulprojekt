@@ -39,7 +39,7 @@ Diese Informatikstunde haben wir mit dem Sammeln von möglichen Ideen für unser
 In dieser Doppelstunde haben wir unser Wissen aus der letzten Stunde dazu genutz, um unseren Charakter zu erschaffen und diesen sich bewegen zu lassen, wenn wir A oder D drücken. Jedoch hatten wir erst alles unter Downloads und nicht unter Desktop gespeichert, was wiederum zu Problemem führte, da es nicht so funktionierte wie wir es uns vorstellten. Deshalb haben wir alles nochmal neu angefangen,so dass es jetzt so aussieht.
 
 <details>
-<summary> Liam
+<summary> Liam</summary>
  ![bsp greenfoot](Bilder/test.jpg "Screenshot von Greenfoot")
 ![bsp greenfoot](Bilder/test2.jpg "Screenshot von Greenfoot")
 
@@ -119,30 +119,5 @@ Heute haben wir einige kleine Änderungen vorgenommen. Wir haben die Anweisungss
 
 ### <a name="20"></a> Stunde vom 07.12.2022
 In der unser heutigen Doppelstunde haben wir unser Spiel fertig gestellt. Wir haben am Anfang die letzten Jump and Run Platformen platziert, um dann danach uns mit dem Enemy (die Frösche) zu beschäftigen, da kam nämlich immer eine Fehlermeldung. Die verwies uns darauf, dass etwas mit unserem Enemy nicht stimmt. Dabei ging es darum dasunter "Fly" bei "public void act" "hitEnemy" zwar als solches erkannt wurde, jedoch danach da noch stand "hitFinish", sodass das Spiel nach dem "hitEnemy" immer noch versucht hat "hitFinish" auszuführen, was natürlich nicht funktionierte. Das Problem konnten wir dann dadurch umgehen, das wir gesagt haben "public void hitSomething" und dann da reingeschrieben haben was passiert, wenn man den Frosch oder die Erbeere (Finish) berührt. Desweiteren haben wir gesagt das unser "Actor", die Fliege, verschwindet, wenn Sie entweder 1. Den Frosch berührt ode 2. die Erbeere.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
