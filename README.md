@@ -81,8 +81,7 @@ Heute haben wir uns mit Luca beraten und uns angeguckt wie er seine Welt kreiert
 
 ### <a name="12"></a> Stunde vom 28.09.2022
 
-Der heutige Tag war ein großer Rückschlag für uns, denn bei dem Versuch weiterzukommen und es zu schaffen das sich unsere Welt bewegt, wenn wir mit unserer Figur nach Rechts oder Links laufen, haben wir es geschafft das wir nun garkeinen Hintergrund mehr haben. Hinzu kommt das unsere Welt verschwunden ist und es nicht so läuft wie wir uns das vorgestellt haben. Zuguter letzt ist auch noch Greenfoot abgestürzt, sodass das was wir heute neu angefangen haben nicht geichert wurde. Jetzt haben  wir uns dazu entdvhieden, dass wir in der nächsten Stunde unsere Welt nochmal neu machen.
-Bilder einfügen vom letzten Stand.
+Der heutige Tag war ein großer Rückschlag für uns, denn bei dem Versuch weiterzukommen und es zu schaffen das sich unsere Welt bewegt, wenn wir mit unserer Figur nach Rechts oder Links laufen, haben wir es geschafft das wir nun gar keinen Hintergrund mehr haben. Hinzu kommt das unsere Welt verschwunden ist und es nicht so läuft,so  wie wir uns das vorgestellt haben. Zuguter letzt ist auch noch Greenfoot abgestürzt, sodass das was wir heute neu angefangen haben nicht gespeichert wurde. Jetzt haben  wir uns dazu entschieden, dass wir in der nächsten Stunde unsere Welt nochmal neu machen.
 
 <details>
  <summary> gh</summary>
