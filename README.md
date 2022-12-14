@@ -1,10 +1,12 @@
 # Stundenprotokolle 12. Klasse 1. Halbjahr
 
 Stormarnschule 2022
-
+<img align="left" heigth="120px" width="120px" alt="Logo der Stormarnschule" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftunneltal.de%2Fwp-content%2Fuploads%2F2020%2F12%2F2020-11-25-PM-Filmmusik-final.pdf&psig=AOvVaw1V5yXen8TzYLskh89UStpu&ust=1671090203881000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNCA_abO-PsCFQAAAAAdAAAAABA9">
 Informatik, Bl
 
 Von Patric Heil und Liam Limberts
+
+
 
 ## [1. Stunde, 16.08.2022](#1)
 ## [2. Stunde, 17.08.2022](#2)
