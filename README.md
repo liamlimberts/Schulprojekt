@@ -1,7 +1,10 @@
 # Stundenprotokolle 12. Klasse 1. Halbjahr
 
-## Stormatnschule 2022
-## Von Liam und Patric
+Stormarnschule 2022
+
+Informatik, Bl
+
+Von Patric Heil und Liam Limberts
 
 ## [1. Stunde, 16.08.2022](#1)
 ## [2. Stunde, 17.08.2022](#2)
