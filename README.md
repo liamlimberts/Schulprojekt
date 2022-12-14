@@ -1,7 +1,7 @@
 # Stundenprotokolle 12. Klasse 1. Halbjahr
 
 Stormarnschule 2022
-<img align="left" heigth="120px" width="120px" alt="Logo der Stormarnschule" src="Stormarnschule_Github.jpg"
+<img align="left" heigth="120px" width="120px" alt="Logo der Stormarnschule" src="Stormarnschule_Github.jpg">
 
 Informatik, Bl
 
