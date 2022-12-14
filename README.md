@@ -163,8 +163,7 @@ Heute haben wir die letzten Änderungen vorgenommen, indem wir den Boden bishin 
 
 ### <a name="24"></a> Stunde vom 14.12.2022
 
-
-
+In unseren letzten Stunden am Mittwoch den 14.12.2022 haben wir uns mit unserer Projektseite und unseren Stundenprotokollen auseinander gesetzt. Erst haben wir unserer Projektseite erstellt und uns abgesprochen wie wir sie getstalten wollen. Danach haben wir unseren Stundenprotokollen einen letzen Feinschliff gegeben und sie nocheinmal überarbeitet. Der Plan ist jetzt die Projektseite, bis zum kommenden Montag den 19.12.2022, von zu Hause aus, fertigzustellen.
 
 
 
