@@ -85,7 +85,9 @@ Der heutige Tag war ein großer Rückschlag für uns, denn bei dem Versuch weite
 
 <details>
  <summary> gh</summary>
+ 
 ![bsp greenfoot](Bilder/test.jpg "Screenshot von Greenfoot")
+ 
 </details>
  
 
