@@ -85,10 +85,9 @@ Der heutige Tag war ein großer Rückschlag für uns, denn bei dem Versuch weite
 
 <details>
  <summary> gh</summary>
- 
 ![bsp greenfoot](Bilder/test.jpg "Screenshot von Greenfoot")
- 
 <details>
+ 
 
 ### <a name="13"></a> Stunde vom 26.10.2022
 In der ersten Stunde nach den Herbstferien, haben wir uns zuesrt damit beschäftigt, wie wir es schaffen das unser Charakter immer in die Richtung guckt in der er sich bewegt. Diese Information haben wir aus folgendem Video entnommen: https://www.youtube.com/watch?v=FoD7cjW_5lU. In der zweiten Stunde haben wir uns mit dem plazieren von Gegenständen beschäftigt, so dass sich diese nicht mit dem Charakter mitbewegen. Dabei war die Schwierigkeit, dass sich der Hintergrund bei uns bewegt und nicht der Charakter. Das bedeutet, dass sich die Gegenstände auch nicht bewegen, außer man gliedert sie in den Hinntergrund ein. Mit dem folgenden Video haben wir diese Informationen bekommen: https://www.youtube.com/watch?v=RQUYT9svlTg.
