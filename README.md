@@ -81,10 +81,10 @@ Heute haben wir uns mit Luca beraten und uns angeguckt wie er seine Welt kreiert
 
 ### <a name="12"></a> Stunde vom 28.09.2022
 
-Der heutige Tag war ein großer Rückschlag für uns, denn bei dem Versuch weiterzukommen und es zu schaffen das sich unsere Welt bewegt, wenn wir mit unserer Figur nach Rechts oder Links laufen, haben wir es geschafft das wir nun gar keinen Hintergrund mehr haben. Hinzu kommt das unsere Welt verschwunden ist und es nicht so läuft,so  wie wir uns das vorgestellt haben. Zuguter letzt ist auch noch Greenfoot abgestürzt, sodass das was wir heute neu angefangen haben nicht gespeichert wurde. Jetzt haben  wir uns dazu entschieden, dass wir in der nächsten Stunde unsere Welt nochmal neu machen.
+Der heutige Tag war ein großer Rückschlag für uns, denn bei dem Versuch weiterzukommen und es zu schaffen das sich unsere Welt bewegt, wenn wir mit unserer Figur nach Rechts oder Links laufen, haben wir es geschafft das wir nun gar keinen Hintergrund mehr haben. Hinzu kommt das unsere Welt verschwunden ist und es nicht so läuft,so  wie wir uns das vorgestellt haben. Zuguter letzt ist auch noch Greenfoot abgestürzt, sodass das was wir heute neu angefangen haben nicht gespeichert wurde. Jetzt haben  wir uns dazu entschieden, dass wir in der nächsten Stunde unsere Welt nochmal neu machen. Als einziger kleiner trost ist uns unsere Steuerung des Characters geblieben.
 
 <details>
- <summary> gh</summary>
+ <summary> alte Steuerung</summary>
  
 ![bsp greenfoot](Bilder/test.jpg "Screenshot von Greenfoot")
  
@@ -110,20 +110,28 @@ In der ersten Stunde, von den beiden Stunden am 09.11.2022, haben wir uns damit 
 ### <a name="17"></a> Stunde vom 16.11.2022
 Heute haben wir uns angeguckt wie man einen Gegner in das Spiel hinzufügt. Dabei haben wir herausgefunden, dass wir irgend ein Bild nehmen können und dann einfach sagen nmüssen, dass wenn die Fliege das Bild berührt das Spiel vorbei ist (Game Over). Danach haben wir dann noch ein Ziel festgelegt, die Erdbeere. Das Ziel funktioniert genau nach dem gleichen Prinzip wie der Gegner, sodass wenn man die Erdbeere berührt ein Bild erscheint (Victory). Unseren Quellcode sowie die beiden Bilder sind unten zu sehen.
 
+<details>
+ <summary> Viktory und Game Over Bilder + der dazu gehörige Code</summary>
+ 
 ![bsp greenfoot](Bilder/Quellcode_für_YouLose_und_YouWin.JPG "Screenshot von Greenfoot")
 
 ![bsp greenfoot](Bilder/Victory_bild_für_github.JPG "Screenshot von Greenfoot")
 
 ![bsp greenfoot](Bilder/YouLose_bild_für_github.JPG "Screenshot von Greenfoot")
 
-
+</details>
+ 
  ### <a name="18"></a> Stunde vom 23.11.2022
  In der heutigen Doppelstunde, haben wir uns mit Anweisungen, für den Spieler beschäftigt. Dazu haben wir ein Schild am Anfang eingefügt, was die Aufgabe der Fliege beschreibt. Das Bild was nachher bei dem Ende erscheinen soll, haben wir auch schon hinzugefügt. Der Spieler wird erst aufgefordert die Erdbeere zu suchen, um danach wieder ganz an Anfang gehen zu müssen, weil sich dort die Erdbeere befindet.
+
+<details>
+ <summary> Anweisungsschilder + der dazu gehörige Code</summary>
 
 ![bsp greenfoot](Bilder/Anweisungen_zum_Spiel.JPG "Screenshot von Greenfoot")
 
 ![bsp greenfoot](Bilder/Quellcode_Anweisungen.JPG "Screenshot von Greenfoot")
 
+ </details>
 
 ### <a name="19"></a> Stunde vom 29.11.2022
 Da wir heute leide beide krank gewesen sind, konnten wir an unserem Projekt nicht weiter arbeiten
