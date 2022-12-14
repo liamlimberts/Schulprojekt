@@ -22,6 +22,8 @@
 ## [20. Stunde, 30.11.2022](#20)
 ## [21. Stunde, 06.12.2022](#21)
 ## [22. Stunde, 07.12.2022](#22)
+## [23. Stunde, 13.12.2022](#23)
+## [24. Stunde, 14.12.2022](#24)
 
 ### <a name="1"></a> Stunde vom 16.08.2022
 
@@ -143,6 +145,17 @@ Die Stunde am 30.11.2022 ist leider ausgefallen. Daher konnten wir nicht an unse
 Heute haben wir einige kleine Änderungen vorgenommen. Wir haben die Anweisungsschilder an ihren richtigen Platz gebracht und unser Ziel festgelegt. Hinzu kam das wir viele Ebenen in das Spiel hinzugefügt haben, welche auf unterschiedlichen Höhen und Weiten platziert wurden.
 
 ### <a name="22"></a> Stunde vom 07.12.2022
-In der unser heutigen Doppelstunde haben wir unser Spiel fertig gestellt. Wir haben am Anfang die letzten Jump and Run Platformen platziert, um dann danach uns mit dem Enemy (die Frösche) zu beschäftigen, da kam nämlich immer eine Fehlermeldung. Die verwies uns darauf, dass etwas mit unserem Enemy nicht stimmt. Dabei ging es darum dasunter "Fly" bei "public void act" "hitEnemy" zwar als solches erkannt wurde, jedoch danach da noch stand "hitFinish", sodass das Spiel nach dem "hitEnemy" immer noch versucht hat "hitFinish" auszuführen, was natürlich nicht funktionierte. Das Problem konnten wir dann dadurch umgehen, das wir gesagt haben "public void hitSomething" und dann da reingeschrieben haben was passiert, wenn man den Frosch oder die Erbeere (Finish) berührt. Desweiteren haben wir gesagt das unser "Actor", die Fliege, verschwindet, wenn Sie entweder 1. Den Frosch berührt ode 2. die Erbeere.
+In dieser Doppelstunde haben wir unser Spiel fertig gestellt. Wir haben am Anfang die letzten Jump and Run Platformen platziert, um dann danach uns mit dem Enemy (die Frösche) zu beschäftigen, da kam nämlich immer eine Fehlermeldung. Die verwies uns darauf, dass etwas mit unserem Enemy nicht stimmt. Dabei ging es darum dasunter "Fly" bei "public void act" "hitEnemy" zwar als solches erkannt wurde, jedoch danach da noch stand "hitFinish", sodass das Spiel nach dem "hitEnemy" immer noch versucht hat "hitFinish" auszuführen, was natürlich nicht funktionierte. Das Problem konnten wir dann dadurch umgehen, das wir gesagt haben "public void hitSomething" und dann da reingeschrieben haben was passiert, wenn man den Frosch oder die Erbeere (Finish) berührt. Desweiteren haben wir gesagt das unser "Actor", die Fliege, verschwindet, wenn Sie entweder 1. Den Frosch berührt ode 2. die Erbeere.
+
+### <a name="23"></a> Stunde vom 13.12.2022
+
+Heute haben wir die letzten Änderungen vorgenommen, indem wir den Boden bishin zur Erdbeere verlängert haben, sodass diese nicht mehr in der Luft schwebt. Danach haben wir einen Testrun gestartet, um zu überprüfen ob das Spiel überhaupt funktioniert. Nach dem letzten Check, haben wir uns die Projektseiten von ehemaligen Schülern angeschaut, um uns für unsere eigene inspirieren zu lassen.
+
+### <a name="24"></a> Stunde vom 14.12.2022
+
+
+
+
+
 
 
